@@ -29,6 +29,8 @@ person -> Ganzer Name zusammengeschrieben z.B. SimonUnge
 
 type -> 0 = youtuber:in 1 = gaming 2 = music 3 = ...
 
+>1 gibt die Bereiche seines/ihres Contents an. z.B.: Musik, Gaming, Fitness, Clothing, ...
+
 youtubechannel -> Name des Youtubekanals
 
 youtubeabos -> Anzahl der Abonnenten auf Youtube in 1000er Schritten, also "25" für 25.000 Follower, "3.000" für 3 Mio
