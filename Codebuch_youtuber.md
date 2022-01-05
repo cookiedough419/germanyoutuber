@@ -31,23 +31,25 @@ type -> 0 = youtuber:in 1 = gaming 2 = music 3 = ...
 
 youtubechannel -> Name des Youtubekanals
 
-youtubefollower -> Anzahl der Follower auf Youtube
+youtubefollower -> Anzahl der Follower auf Youtube in 1000er Schritten, also "25" für 25.000 Follower
 
-wealth -> Vermögen 
+wealth -> Vermögen in Millionen Euro, also 1.5 für 1,5 Millionen Euro Vermögen
 
-salary -> Einkommen pro Monat in 1000er-Schritten also "25" für 25.000 Euro im Monat Verdienst mit Youtube
+salary -> Einkommen pro Monat in 1000er-Schritten, also "25" für 25.000 Euro im Monat Verdienst mit Youtube
 
-city -> In welcher Stadt lebt der:die Youtuber:in
+city -> In welcher Stadt lebt der:die Youtuber:in, Stadtname
 
 age -> Alter des Youtubers
 
-age 1 = 18 bis 22 Jahre 2 = 23 bis 27 Jahre 3 = 28 bis 32 Jahre 4 = über 32 Jahre
+1 = 18 bis 22 Jahre 2 = 23 bis 27 Jahre 3 = 28 bis 32 Jahre 4 = über 32 Jahre
 
 99 = jew. Contentbereich, nicht def. Alter
 
 sex -> Geschlecht des Youtubers
 
-country -> Land, in dem Youtuber lebt.
+1 = male, 2 = female
+
+country -> Landname, in dem Youtuber lebt.
 
 
 
