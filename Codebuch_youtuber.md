@@ -31,7 +31,7 @@ type -> 0 = youtuber:in 1 = gaming 2 = music 3 = ...
 
 Größer als 1 gibt die Bereiche seines/ihres Contents an. z.B.: Musik, Gaming, Fitness, Clothing, ...
 
-youtubechannel -> Name des Youtubekanals
+youtubechannel -> Name des Youtubekanals, Leerzeichen mit Unterstrich: Simon_Desue
 
 youtubeabos -> Anzahl der Abonnenten auf Youtube in 1000er Schritten, also "25" für 25.000 Follower, "3.000" für 3 Mio
 
