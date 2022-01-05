@@ -31,7 +31,7 @@ type -> 0 = youtuber:in 1 = gaming 2 = music 3 = ...
 
 youtubechannel -> Name des Youtubekanals
 
-youtubefollower -> Anzahl der Follower auf Youtube in 1000er Schritten, also "25" für 25.000 Follower
+youtubeabos -> Anzahl der Abonnenten auf Youtube in 1000er Schritten, also "25" für 25.000 Follower, "3.000" für 3 Mio
 
 wealth -> Vermögen in Millionen Euro, also 1.5 für 1,5 Millionen Euro Vermögen
 
@@ -47,7 +47,7 @@ age -> Alter des Youtubers
 
 sex -> Geschlecht des Youtubers
 
-1 = male, 2 = female
+1 = male, 2 = female, 3 = divers
 
 country -> Landname, in dem Youtuber lebt.
 
