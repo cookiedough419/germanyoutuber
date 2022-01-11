@@ -1,4 +1,4 @@
-# Datensatz reichste Youtuber
+# Datensatz 25 reichste Youtuber
 
 Codebuch Stand 2022-01 erstellt von Florian Striegl, Julia Dusemond, Lina Quotschalla, Pascal Eichner und Jessica Schreiner
 Inhalt
@@ -9,17 +9,17 @@ Codebuch_youtuber.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 
-Wir haben den Datensatz aus dem Vermögenmagazin der reichsten Youtuber sowie der Socialblade- Liste der Top 100 Youtube-Channels Deutschlands erhoben. Für unser Projekt analysieren wir die Top 25 und deren Verbindungen und Quellen des Einkommens (aus welchen Bereichen).
+Wir haben den Datensatz aus dem Vermögenmagazin der reichsten Youtuber sowie der Socialblade- Liste der Top 100 Youtube-Channels Deutschlands erhoben. Für unser Projekt analysieren wir die Top 25, deren Verbindungen und Einkommensquellen (aus welchen Bereichen auch außerhalb von Youtube z.B. Musik).
 
-Das Netzwerk ist ein ungerichtetes ??-mode Akteursnetzwerk.
+Das Netzwerk ist ein ungerichtetes two-mode Akteursnetzwerk.
 
 ## EDGE-Attribute
 
 from ->  id des Youtubers, in zwei Buchstaben z.B. Simon Unge -> su
 
-to -> type, also der Bereich/die Bereiche, mit dem der/die Youtuber:in eine Verbindung hat bzw. die Bereiche seines/ihres Contents. z.B.: Musik, Gaming, Fitness, Clothing, ...
+to -> type, Youtuber (0) und Nicht-Youtuber (1)
 
-relation 1 = Ownerin zu 100 % (alleinig) 2 = Anteile an der Firma 3 = Spenden an Organisation ab 500.000 US-Dollar 4 = Stiftung
+relation 1 = Zusammenarbeit (Erscheinen zusammen in mind. 1 Video) 2 = Reaction-Videos (gerichtet?) 3 = Welche Einnahmequellen hat die:der Youtuber:in? 
 
 ## NODE-Attribute
 
@@ -27,9 +27,7 @@ id -> Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 person -> Ganzer Name zusammengeschrieben z.B. SimonUnge 
 
-type -> 0 = youtuber:in 1 = gaming 2 = music 3 = ...
-
-Größer als 1 gibt die Bereiche seines/ihres Contents an. z.B.: Musik, Gaming, Fitness, Clothing, ...
+type -> 0 = youtuber:in 1 = Nicht-Youtuber:in (Bereich weiterer Einnahmequellen z.B. Musik, Bücher, ...)
 
 youtubechannel -> Name des Youtubekanals, Leerzeichen mit Unterstrich: Simon_Desue
 
