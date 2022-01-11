@@ -23,6 +23,8 @@ relation 1 = Zusammenarbeit (Erscheinen zusammen in mind. 1 Video) 2 = Reaction-
 
 ## NODE-Attribute
 
+"99" steht für "keine Angabe"
+
 id -> Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 person -> Ganzer Name zusammengeschrieben z.B. SimonUnge 
@@ -52,4 +54,5 @@ sex -> Geschlecht des Youtubers
 country -> Landname, in dem Youtuber lebt.
 
 brand(1,2,...) -> Markenname(n)
+
 
