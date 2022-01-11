@@ -51,5 +51,5 @@ sex -> Geschlecht des Youtubers
 
 country -> Landname, in dem Youtuber lebt.
 
-
+brand(1,2,...) -> Markenname(n)
 
