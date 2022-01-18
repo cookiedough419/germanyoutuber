@@ -17,9 +17,9 @@ Das Netzwerk ist ein ungerichtetes two-mode Akteursnetzwerk.
 
 from ->  id des Youtubers/der Einnahmequelle(n), in ein bzw. zwei Buchstaben z.B. Simon Unge -> su
 
-to -> type, Youtuber (0) und Nicht-Youtuber (1)
+to -> type, Youtuber (0) , Einkommensquellen (1) und Organisationen (Management) (2)
 
-relation 1 = Zusammenarbeit (Erscheinen zusammen in mind. 1 Video) 2 = Reaction-Videos (gerichtet?) 3 = Welche Einnahmequellen hat die:der Youtuber:in? 
+relation 1 = Zusammenarbeit (Erscheinen zusammen in mind. 1 Video), 2 = Bei welcher Organisation ist die:der Youtuber:in (Management) 3 = Welche Einnahmequellen hat die:der Youtuber:in? 
 
 ## NODE-Attribute
 
@@ -29,7 +29,7 @@ id -> Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 person -> Ganzer Name zusammengeschrieben z.B. SimonUnge 
 
-type -> 0 = youtuber:in 1 = Nicht-Youtuber:in (Bereich weiterer Einnahmequellen z.B. Musik, Bücher, ...)
+type -> 0 = youtuber:in, 1 = Einnahmequellen (Bereiche wie z.B. Musik, Bücher, ...) und 2 = Organisationen (Management)
 
 youtubechannel -> Name des Youtubekanals, Leerzeichen mit Unterstrich: Simon_Desue
 
@@ -53,6 +53,5 @@ sex -> Geschlecht des Youtubers
 
 country -> Landname, in dem Youtuber lebt.
 
-brand(1,2,...) -> Markenname(n)
 
 
