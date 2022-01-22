@@ -9,7 +9,7 @@ Codebuch_youtuber.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
 
-Wir haben den Datensatz aus dem Vermögenmagazin der reichsten Youtuber sowie der Socialblade- Liste der Top 100 Youtube-Channels Deutschlands erhoben. Für unser Projekt analysieren wir die Top 25, deren Verbindungen und Einkommensquellen (aus welchen Bereichen auch außerhalb von Youtube z.B. Musik).
+Wir haben den Datensatz aus dem Vermögenmagazin der reichsten Youtuber sowie der Socialblade- Liste der Top 100 Youtube-Channels Deutschlands erhoben. Für unser Projekt analysieren wir die Top 25, deren Verbindungen und Einkommensquellen (aus welchen Bereichen auch außerhalb von Youtube z.B. Musik). Wir beziehen uns auf den Stand Februar 2022. 
 
 Das Netzwerk ist ein ungerichtetes two-mode Akteursnetzwerk.
 
