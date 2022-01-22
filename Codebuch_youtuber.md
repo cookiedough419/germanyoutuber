@@ -44,6 +44,15 @@ Name des Youtubekanals
 **youtubeabos**  
 Anzahl der Abonnenten auf Youtube in ganzen Zahlen
 
+**Instagramfollower**  
+Instagramfollower in ganzen Zahlen.
+
+**TikTokFollower**  
+Follower auf TikTok in ganzen Zahlen.
+
+**Facebookfollower**  
+Follower auf Facebook in ganzen Zahlen.
+
 **wealth**  
 Vermögen in ganzen Zahlen
 
@@ -66,7 +75,7 @@ Geschlecht des Youtubers
 **country**   
 Landname, in dem Youtuber lebt.
 
-**management**
+**management**  
 Name des Managements, bei dem der/die Youtuber:in ist.
 
 
