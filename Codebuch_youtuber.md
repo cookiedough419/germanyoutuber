@@ -62,9 +62,8 @@ Einkommen pro Monat auf Youtube als Zahl. Z.B. 3000000 für drei Millionen.
 **city**  
 In welcher Stadt lebt der:die Youtuber:in, Stadtname
 
-**age**  
-Alter des Youtubers
-1 = 18 bis 22 Jahre 2 = 23 bis 27 Jahre 3 = 28 bis 32 Jahre 4 = über 32 Jahre
+**birth**  
+Jahrgang des Youtubers.
 
 99 = für type 1, nicht def. Alter
 
