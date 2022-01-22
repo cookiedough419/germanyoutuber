@@ -11,18 +11,18 @@ Codebuch_youtuber.md (Codierung der Datensätze)
 
 Wir haben den Datensatz aus dem Vermögenmagazin der reichsten Youtuber sowie der Socialblade- Liste der Top 100 Youtube-Channels Deutschlands erhoben. Für unser Projekt analysieren wir die Top 25, deren Verbindungen und Einkommensquellen (aus welchen Bereichen auch außerhalb von Youtube z.B. Musik).
 
-Das Netzwerk ist ein (un)gerichtetes two-mode Akteursnetzwerk.
+Das Netzwerk ist ein ungerichtetes two-mode Akteursnetzwerk.
 
 ## EDGE-Attribute
 
 **from**  
-id des Youtubers/der Einnahmequelle(n), in ein bzw. zwei Buchstaben z.B. Simon Unge -> su
+id des Youtubers/der Einnahmequelle(n), in ein bzw. zwei Buchstaben z.B. Simon Wiefels -> sw
 
 **to**  
-type, Youtuber (0) , Einkommensquellen (1) und Organisationen (Management) (2)
+type, Youtuber (0), Einkommensquellen als konkreter Name, z.B. Name des Podcasts, Buch, etc. (1)
 
 **relation**  
-1 = Zusammenarbeit (Erscheinen zusammen in mind. 1 Video), 2 = Bei welcher Organisation ist die:der Youtuber:in (Management) 3 = Welche Einnahmequellen hat die:der Youtuber:in? 
+1 = Zusammenarbeit (Erscheinen zusammen in mind. 1 Video), 3 = Welche Einnahmequellen hat die:der Youtuber:in? 
 
 
 ## NODE-Attribute
@@ -33,16 +33,16 @@ type, Youtuber (0) , Einkommensquellen (1) und Organisationen (Management) (2)
 Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 **person**  
-Ganzer Name zusammengeschrieben z.B. SimonUnge 
+Ganzer Name zusammengeschrieben z.B. SimonWiefels
 
 **name**  
-Name des Youtubekanals
+Name des Youtubekanals/der Einnahmequelle
 
 **type**  
-0 = youtuber:in, 1 = Einnahmequellen (Bereiche wie z.B. Musik, Bücher, ...) und 2 = Organisationen (Management)?????
+0 = youtuber:in, 1 = Einnahmequellen als konkreter Name (Bereiche wie z.B. Musik, Bücher, ...)
 
 **youtubeabos**  
-Anzahl der Abonnenten auf Youtube in ganzen Zahlen
+Anzahl der Abonnenten auf Youtube in ganzen Zahlen.
 
 **Instagramfollower**  
 Instagramfollower in ganzen Zahlen.
@@ -54,7 +54,7 @@ Follower auf TikTok in ganzen Zahlen.
 Follower auf Facebook in ganzen Zahlen.
 
 **wealth**  
-Vermögen in ganzen Zahlen
+Vermögen in ganzen Zahlen.
 
 **salary**  
 Einkommen pro Monat auf Youtube als Zahl. Z.B. 3000000 für drei Millionen.
