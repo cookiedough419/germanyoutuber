@@ -16,7 +16,6 @@ Das Netzwerk ist ein (un)gerichtetes two-mode Akteursnetzwerk.
 ## EDGE-Attribute
 
 **from**
-
 id des Youtubers/der Einnahmequelle(n), in ein bzw. zwei Buchstaben z.B. Simon Unge -> su
 
 **to**
