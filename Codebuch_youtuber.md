@@ -16,7 +16,7 @@ Das Netzwerk ist ein ungerichtetes two-mode Akteursnetzwerk.
 ## EDGE-Attribute
 
 **from**  
-id des Youtubers/der Einnahmequelle(n), in ein bzw. zwei Buchstaben z.B. Simon Wiefels -> sw
+id des Youtubers/der Einnahmequelle(n), in zwei Buchstaben z.B. Simon Wiefels: sw
 
 **to**  
 type, Youtuber (0), Einkommensquellen als konkreter Name, z.B. Name des Podcasts, Buch, etc. (1)
