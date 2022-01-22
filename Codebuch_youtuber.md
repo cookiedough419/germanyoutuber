@@ -66,5 +66,7 @@ Geschlecht des Youtubers
 **country**   
 Landname, in dem Youtuber lebt.
 
+**management**
+Name des Managements, bei dem der/die Youtuber:in ist.
 
 
