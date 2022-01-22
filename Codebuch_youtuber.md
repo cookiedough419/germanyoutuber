@@ -18,10 +18,10 @@ Das Netzwerk ist ein (un)gerichtetes two-mode Akteursnetzwerk.
 **from**  
 id des Youtubers/der Einnahmequelle(n), in ein bzw. zwei Buchstaben z.B. Simon Unge -> su
 
-**to**
+**to**  
 type, Youtuber (0) , Einkommensquellen (1) und Organisationen (Management) (2)
 
-**relation** 
+**relation**  
 1 = Zusammenarbeit (Erscheinen zusammen in mind. 1 Video), 2 = Bei welcher Organisation ist die:der Youtuber:in (Management) 3 = Welche Einnahmequellen hat die:der Youtuber:in? 
 
 
@@ -29,41 +29,41 @@ type, Youtuber (0) , Einkommensquellen (1) und Organisationen (Management) (2)
 
 "99" steht für "keine Angabe"
 
-**id**
+**id**  
 Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
-**person** 
+**person**  
 Ganzer Name zusammengeschrieben z.B. SimonUnge 
 
-**name**
+**name**  
 Name des Youtubekanals
 
-**type**
+**type**  
 0 = youtuber:in, 1 = Einnahmequellen (Bereiche wie z.B. Musik, Bücher, ...) und 2 = Organisationen (Management)?????
 
-**youtubeabos**
+**youtubeabos**  
 Anzahl der Abonnenten auf Youtube in ganzen Zahlen
 
-**wealth**
+**wealth**  
 Vermögen in ganzen Zahlen
 
-**salary**
+**salary**  
 Einkommen pro Monat auf Youtube als Zahl. Z.B. 3000000 für drei Millionen.
 
-**city**
+**city**  
 In welcher Stadt lebt der:die Youtuber:in, Stadtname
 
-**age**
+**age**  
 Alter des Youtubers
 1 = 18 bis 22 Jahre 2 = 23 bis 27 Jahre 3 = 28 bis 32 Jahre 4 = über 32 Jahre
 
 99 = für type 1, nicht def. Alter
 
-**sex**
+**sex**  
 Geschlecht des Youtubers
 1 = male, 2 = female, 3 = divers
 
-**country** 
+**country**   
 Landname, in dem Youtuber lebt.
 
 
