@@ -78,4 +78,5 @@ Landname, in dem Youtuber lebt.
 **management**  
 Name des Managements, bei dem der/die Youtuber:in ist.
 
-
+**category**  
+Kategorie der Einnahmequelle, z.B. Podcast, Musik, Buch, ...
