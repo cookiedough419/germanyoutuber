@@ -11,7 +11,7 @@ Codebuch_youtuber.md (Codierung der Datensätze)
 
 Wir haben den Datensatz aus dem Vermögenmagazin der reichsten Youtuber sowie der Socialblade- Liste der Top 100 Youtube-Channels Deutschlands erhoben. Für unser Projekt analysieren wir die Top 25, deren Verbindungen und Einkommensquellen (aus welchen Bereichen auch außerhalb von Youtube z.B. Musik).
 
-Das Netzwerk ist ein ungerichtetes two-mode Akteursnetzwerk.
+Das Netzwerk ist ein (un)gerichtetes two-mode Akteursnetzwerk.
 
 ## EDGE-Attribute
 
@@ -35,17 +35,17 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten.
 **person** 
 Ganzer Name zusammengeschrieben z.B. SimonUnge 
 
-**type**
-0 = youtuber:in, 1 = Einnahmequellen (Bereiche wie z.B. Musik, Bücher, ...) und 2 = Organisationen (Management)
+**name**
+Name des Youtubekanals
 
-**youtubechannel**
-Name des Youtubekanals, Leerzeichen mit Unterstrich: Simon_Desue
+**type**
+0 = youtuber:in, 1 = Einnahmequellen (Bereiche wie z.B. Musik, Bücher, ...) und 2 = Organisationen (Management)?????
 
 **youtubeabos**
-Anzahl der Abonnenten auf Youtube in 1000er Schritten, also "25" für 25.000 Follower, "3.000" für 3 Mio
+Anzahl der Abonnenten auf Youtube in ganzen Zahlen
 
 **wealth**
-Vermögen in Millionen Euro, also 1.5 für 1,5 Millionen Euro Vermögen
+Vermögen in ganzen Zahlen
 
 **salary**
 Einkommen pro Monat auf Youtube als Zahl. Z.B. 3000000 für drei Millionen.
