@@ -1,6 +1,6 @@
 # Datensatz 25 reichste Youtuber
 
-Codebuch Stand 2022-01 erstellt von Florian Striegl, Julia Dusemond, Lina Quotschalla, Pascal Eichner und Jessica Schreiner
+Codebuch Stand 2022-01 erstellt von Florian Striegl, Julia Dusemond, Lina Quotschalla, Pascal Eichner und Jessica Schreiner  
 Inhalt
 
 Edges_youtuber.csv (Edgelist)
