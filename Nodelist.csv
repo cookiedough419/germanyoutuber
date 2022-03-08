@@ -1,0 +1,278 @@
+id,person,name,type,youtubeabos,Instagramfollower,TikTokFollower,Facebookfollower,wealth,salary,city,birth,sex,country,management,category
+sw,SimonWiefels,ungespielt,0,3000000,2400000,469200,18966,5500000,140000,Funchal,1990,1,Madeira,Flow_fwd,99
+jw,JoshuaWeissleder,Simon Desue,0,4240000,2000000,20300,5700000,5000000,40000,Dubai,1991,1,Vereinigte Arabische Emirate,DivimoveWeareera,99
+sh,SaschaHellinger,unsympathischTV,0,2770000,1300000,3655,61440,1500000,25000,Stuttgart,1995,1,Deutschland,Flow_fwd,99
+st,SophiaThiel,Sophia Thiel,0,996000,1200000,158300,1287357,4000000,4500,Muenchen,1995,2,Deutschland,Studio71,99
+fl,FelixvonderLaden,Dner,0,776000,2500000,72600,73628,1000000,20000,Reinbek,1994,1,Deutschland,Studio71,99
+pm,PatrickMayer,Paluten,0,4370000,1900000,967600,142949,1900000,70000,Muenchen,1988,1,Deutschland,Studio 71,99
+jb,JulienBudorovits,Julien Bam,0,5750000,4400000,65000,99,1800000,21200,Aachen,1988,1,Deutschland,Divimove_We_are_era,99
+pr,PamelaReif,Pamela Reif,0,8210000,8400000,540700,274830,4500000,65000,Karlsruhe,1996,2,Deutschland,99,99
+jc,JulianClassen,Julienco,0,3990000,5500000,207400,564387,500000,18000,Koeln,1993,1,Deutschland,TiQuest,99
+bc,BiancaClassen,Bibis Beauty Palace,0,5900000,7800000,3100000,1100000,5000000,70000,Koeln,1993,2,Deutschland,TiQuest,99
+so,SallyOezcan,Sallys Welt,0,1970000,907000,68500,613260,6000000,22000,Karlsruhe,1988,2,Deutschland,Studio 71,99
+ls,LucaScharpenberg,laserluca,0,4600000,3400000,3000000,99,4000000,25000,Koeln,1996,1,Deutschland,Studio 71,99
+er,ErikRange,Gronkh,0,4900000,914000,99,882378,2000000,12000,Koeln,1977,1,Deutschland,Studio 71,99
+sm,SebastianMeyer,rewinside,0,3300000,2000000,333300,117732,2000000,8000,Koeln,1992,1,Deutschland,Studio 71,99
+me,MarcelEris,MontanaBlack,0,2870000,3100000,1900000,344415,1200000,65000,Hamburg,1988,1,Deutschland,ContentView_GmbH,99
+nl,NicolasLazaridis,Inscope21,0,2750000,2100000,166500,280762,90000,12000,Stuttgart,1994,1,Deutschland,Flow_fwd,
+rz,Rezo,Rezo,0,1740000,1000000,1400000,99,200000,99,Aachen,1992,1,Deutschland,ALL_IN_Artist_Management_GmbH,99
+sd,ShirinDavid,ShirinDavid,0,2860000,5900000,909500,99,7000000,25000,Berlin,1995,2,Deutschland,Shirin_David_Management,99
+dk,DagmarKazakov,Dagibee,0,3970000,6500000,1000000,1200000,1500000,12500,Duesseldorf,1994,2,Deutschland,nohype GmbH,99
+uw,UweSchueder,FlyingUwe,0,1400000,688000,560500,749672,1200000,25000,Hamburg,1987,1,Deutschland,99,99
+jk,JensKnossalla,Knossi,0,1250000,1400000,899800,63348,2000000,63000,Baden-Baden,1986,1,Deutschland,DLS Consulting,99
+ms,MaximilianStemmler,Trymacs,0,2030000,864000,693800,9302,1500000,65000,Quickborn,1994,1,Deutschland,Studio71,99
+ke,KarlEss,KarlEss,0,72300,189000,2746,589598,5000000,7000,Muenchen,1989,1,Deutschland,99,99
+kk,KatjaKrasavice,KatjaKrasavice,0,456000,3100000,2000000,242671,1300000,85000,Leipzig,1996,2,Deutschland,Katja_Krasavice,99
+jpk,JeanPierreKraemer,JPPerformance,0,2190000,1100000,99,836.246,1290000,60000,Dortmund,1980,1,Deutschland,Studio71,99
+tw,99,TwitchStreams,1,99,99,99,99,99,99,99,99,99,99,99,Stream
+us,99,UngeShop,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+bm,99,BeyondMeat,1,99,99,99,99,99,99,99,99,99,99,99,Investments
+ta,99,Tesla,1,99,99,99,99,99,99,99,99,99,99,99,Investments
+im,99,Immobilien,1,99,99,99,99,99,99,99,99,99,99,99,Immobilienkauf
+cg,99,Chatgefluester,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+wtf,99,WTF,1,99,99,99,99,99,99,99,99,99,99,99,Eigene Marke
+js,99,JustSpices,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+mw,99,MeineWeltreiseUNGEreist ,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+pg,99,PlayaGames,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+ht,99,HiTech,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+mc,99,maxnomic,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+bf,99,Backforce,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+dc,99,DCFandome,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+yf,99,yfood,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+bmd,99,backmarketde,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+rr,99,Razer,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ts,99,TheSims,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+dp,99,Disneyplus,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ve,99,vodafone,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ds,99,DieSchulermittler,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+pbb,99,PromiBigBrother,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+ks,99,Kartoffelsalat,1,99,99,99,99,99,99,99,99,99,99,99,Filmauftritt
+az,99,18EndlichErwachsen,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+sz,99,16VollDurchstarten,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+fz,99,15AlleMachtdenTeenies,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+ej,99,17EinJahrvollerSpass,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+sdt,99,SimonDesueTalk,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+hs,99,HaengerShop,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+upg,99,UniversalPicturesGermany,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+oue,99,OfflineundEhrlich,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+pe,99,Pegador,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+vca,99,vivaconAgua,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+sl,99,shell,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+uss,99,unsympathischshop,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+go,99,Gymondo,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+ddw,99,DalliDalliDieWeihnachtsshow,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+vk,99,VolleKanne,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+wh,99,WomensHealth,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+cs,99,ComebackStronger,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+de,99,DiagnoseEssstoerung,1,99,99,99,99,99,99,99,99,99,99,99,Podcast-Auftritt
+fls,99,FitnessLifeStylePlaner,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+mp,99,MitMealPrepzurTraumfigur,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+fus,99,FitundStarkmitSophia,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+fs,99,FitnessSweets,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+esuf,99,Einfachschlankundfit,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+ndr,99,NDRTalkshow,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+sat,99,Sat1fruehstuecksfernsehen,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+pro,99,ProSieben,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+zdf,99,zdf,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+skm,99,SpielkindMedia,1,99,99,99,99,99,99,99,99,99,99,99,Eigene Marke
+kt,99,KarstadtSports,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+fu,99,funk,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+bfp,99,BayerischerFernsehpreis,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+rbr,99,RedBullRing,1,99,99,99,99,99,99,99,99,99,99,99,Rennsieg
+ml,99,MarkusLanz,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+nr,99,NuerburgringRennen,1,99,99,99,99,99,99,99,99,99,99,99,Motorsporteinnahmen
+bp,99,BackstagePodcast,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+il,99,Intel,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ew,99,Ewieeinfach,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ro,99,Roborock,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+tr,99,Teichmannracing,1,99,99,99,99,99,99,99,99,99,99,99,Motorsporteinnahmen
+lo,99,Lego,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+fh,99,Forzahorizon,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+rc,99,Ridersrepublic,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ffe,99,FiaFormulaE,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ge,99,Google,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+mer,99,Mercedes,1,99,99,99,99,99,99,99,99,99,99,99,Sponsoring
+sg,99,Samsung,1,99,99,99,99,99,99,99,99,99,99,99,Sponsoring
+bli,99,blinkist,1,99,99,99,99,99,99,99,99,99,99,99,Sponsoring
+ea,99,EA,1,99,99,99,99,99,99,99,99,99,99,99,Sponsoring
+md,99,Mastercard,1,99,99,99,99,99,99,99,99,99,99,99,Sponsoring
+jty,99,Juicetechnology,1,99,99,99,99,99,99,99,99,99,99,99,Sponsoring
+os,99,Outriders,1,99,99,99,99,99,99,99,99,99,99,99,Sponsoring
+ard,99,ARD,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+np,99,Naturally Pam ,1,99,99,99,99,99,99,99,99,99,99,99,Essen
+pfb,99,Pam Foodbox Foodist,1,99,99,99,99,99,99,99,99,99,99,99,Essen
+skb,99,"Snack Kochbuch ""You deserve this""",1,99,99,99,99,99,99,99,99,99,99,99,Buch
+prb,99,Pamela Reif Snack Kochbuch Box,1,99,99,99,99,99,99,99,99,99,99,99,Box
+ed,99,Pamela Reif x Everdrop Waschmittel,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+prp,99,Pamela Reif x Puma Collection,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+prn,99,Pamela Reif x NA-KD ,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+prs,99,Buch Strong u Beautiful,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+pra,99,Pamela Reif Adventskalender,1,99,99,99,99,99,99,99,99,99,99,99,Adventskalender
+prt,99,Pamela Reif x The Rainforest Acai,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+vap,99,vapiano,1,99,99,99,99,99,99,99,99,99,99,99,Essen
+cal,99,calzedonia,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ghd,99,Good Hair Day ,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+itm,99,intimissimi,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+gla,99,Glamour Magazine,1,99,99,99,99,99,99,99,99,99,99,99,Magazin
+pam,99,Pam App,1,99,99,99,99,99,99,99,99,99,99,99,App
+bl,99,bilou,1,99,99,99,99,99,99,99,99,99,99,99,Beauty
+oa,99,oceans apart,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+bpc,99,das ist ja classen Podcast,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+wap,99,Song Wap bap,1,99,99,99,99,99,99,99,99,99,99,99,Musik
+woe,99,Wilkommen oesterreich TV,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+tf,99,taff,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+db,99,dealbunny.de GmbH u Co. KG,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+ogd,99,only_giveaways_de Management,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+pp,99,paypal de,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+she,99,shein,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+tz,99,tezenis,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ss,99,sunshinesmile,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+dw,99,danielwellington,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+alg,99,Alge Getraenk,1,99,99,99,99,99,99,99,99,99,99,99,Getraenk
+kno,99,Knossi Shop Merch,1,99,99,99,99,99,99,99,99,99,99,99,Merchandise
+rtl,99,Taeglich frisch geroestet. RTL,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+gzs,99,Gute Zeiten Schlechte Zeiten,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+pok,99,Poker Stars sucht. das Poker Ass,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+tms,99,Teammatesshow,1,99,99,99,99,99,99,99,99,99,99,99,Livestream
+ama,99,amastudios merch,1,99,99,99,99,99,99,99,99,99,99,99,Merchandise
+lev,99,levelup ,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+hyp,99,hyped app,1,99,99,99,99,99,99,99,99,99,99,99,App
+prom,99,Prosieben Maxx ,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+con,99,congstar,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+kin,99,Kinderlachen e.V,1,99,99,99,99,99,99,99,99,99,99,99,Charity
+pre,99,predatorgamingdach,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+glo,99,Globus,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+top,99,Topfgeldjaeger,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+sab,99,Sally backt,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+ins,99,Interspar,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+eis,99,Einfach Sally,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+goa,99,Golden Kamera Digital Awards,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+lid,99,Lidl,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+sbl,99,Sallys Blog,1,99,99,99,99,99,99,99,99,99,99,99,Blog
+sas,99,Sallys Shop,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+spoo,99,Sallys Podcast,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+lju,99,Landespreis fuer junge Unternehmen,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+srk,99,Sallys Rezepte fuer Kinder,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+sck,99,Sallys Classics: Klassische und moderne Kuchen und Torten,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+suf,99,Sally and Friends. Einfache Rezepte fuer jeden Tag,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+stk,99,Sallys Tuerkische Kueche. Mediterrane und orientalische Rezepte fuer jeden Tag,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+sff,99,Sallys Food Fotografie: Geniale Tipps u Tricks fuer Anfaenger und Fortgeschrittene,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+sbj,99,Sallys Backen fuer jeden Anlass,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+tia,99,Tiger Award,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+gok,99,Goldene Kamera,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+dud,99,DICKuDOOF,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+kli,99,Klimaschutzpreis 2013,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+anb,99,Angry Birds,1,99,99,99,99,99,99,99,99,99,99,99,Synchronisation
+mao,99,Mask Off,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+vib,99,Virtuelle Bundesliga,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+psv,99,Die grosse ProSieben Voelkerball Meisterschaft,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+min,99,ConCrafter – Neue Minecraft-Facts und Commands,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+hmn,99,"Hallo, mein Name ist Luca",1,99,99,99,99,99,99,99,99,99,99,99,Buch
+lus,99,luca shop,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+piz,99,Gustavo Gusto Pizza,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+wv,99,Deutscher Webvideopreis,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+lms,99,Last Man Standing,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+gsh,99,Gronkh Shop,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+syn,99,Synchronsprecher,1,99,99,99,99,99,99,99,99,99,99,99,Synchronisation
+elt,99,"Song ""Elektrotitte""",1,99,99,99,99,99,99,99,99,99,99,99,Musik
+nmt,99,"Film ""Nicht mein Tag""",1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+hsd,99,"Serie ""How to Sell Drugs""",1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+gaa,99,Gamescom Awards 2020,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+lff,99,Livestream Friendly Fire,1,99,99,99,99,99,99,99,99,99,99,99,Livestream
+gtv,99,Gronkh_TV,1,99,99,99,99,99,99,99,99,99,99,99,Website
+ybm,99,Young Boehmermann,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+dj,99,Auftritte als DJ,1,99,99,99,99,99,99,99,99,99,99,99,Musik
+vug,99,Gesellschafter Volix UG,1,99,99,99,99,99,99,99,99,99,99,99,Investments
+res,99,Rewinstore,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+zdd,99,Doku Selfmade Millionaere,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftitt
+got,99,Werbung Got2b,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+knf,99,Film Kartoffelsalat Nicht Fragen,1,99,99,99,99,99,99,99,99,99,99,99,Filmauftritt
+abc,99,"Film ""ABCs of Superheros""",1,99,99,99,99,99,99,99,99,99,99,99,Filmauftritt
+smd,99,Smilodox,1,99,99,99,99,99,99,99,99,99,99,99,Investments
+nes,99,Neosupps,1,99,99,99,99,99,99,99,99,99,99,99,Investments
+mma,99,MMA Kampf Preis,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+emp,99,Emporgy,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+fob,99,Food's Best,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ck,99,CaseKing,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+dak,99,Darknet Kurzfilm,1,99,99,99,99,99,99,99,99,99,99,99,Filmauftritt
+wa,99,Walhalla 360 Kurzfilm,1,99,99,99,99,99,99,99,99,99,99,99,Filmauftritt
+big,99,Big Brother,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+mbc,99,Montanablack . de,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+mjy,99,MontanaBlack: Vom Junkie zum YouTuber,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+mjm,99,MontanaBlack II: Vom YouTuber zum Millionaer,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+ster,99,Stern TV,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+gam,99,Gamescom Auftritt,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+www,99,Worldwide Wohnzimmer,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+epf,99,Ehrenpflaume,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+spo,99,SpontanaBlack,1,99,99,99,99,99,99,99,99,99,99,99,Livestream
+axe,99,AXE Deo werbung,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+yta,99,YouTube Award,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+tsc,99,The Show Channel,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+lm,99,Leeroy Matata,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+jpp,99,JP-Performance .de ,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+dps,99,Die PS-Profis,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+for,99,Ford,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+ibj,99,Ich bin Jean Pierre und ANGSTGETRIEBEN,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+ada,99,ADAC,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+jgm,99,JP Performance GmbH,1,99,99,99,99,99,99,99,99,99,99,99,Investments
+jk,99,Beetique,1,99,99,99,99,99,99,99,99,99,99,99,Eigene Marke
+nkc,99,Nickelodeon Kids’ Choice Awards 2015,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+sds,99,Schlag den Star,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+fjg,99,Fack ju Goehte Zwei,1,99,99,99,99,99,99,99,99,99,99,99,Filmrolle
+eiw,99,Er ist wieder da,1,99,99,99,99,99,99,99,99,99,99,99,Filmrolle
+bvl,99,Bruder vor Luder,1,99,99,99,99,99,99,99,99,99,99,99,Filmrolle
+wis,99,Wishlist Webserie,1,99,99,99,99,99,99,99,99,99,99,99,Filmrolle
+ost,99,Ostwind_Aufbruch nach Ora,1,99,99,99,99,99,99,99,99,99,99,99,Filmrolle
+sig,99,Signsaward,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+hum,99,H und M,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+dmm,99,DM,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+hou,99,23HOURS GmbH,1,99,99,99,99,99,99,99,99,99,99,99,Musiklabel
+rez,99,Rezo Shop,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+ado,99,Adobe,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+sky,99,Sky,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+gra,99,Granini,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+tkk,99,TK Krankenkasse,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+bar,99,Barmer,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+gob,99,Got Bag,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+luv,99,Luve,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+nuc,99,Nu-Company,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+nin,99,Nindo,1,99,99,99,99,99,99,99,99,99,99,99,Onlie-Tool
+bgg,99,Beginner gegen Gewinner,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+rnd,99,Red Nose Day,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+nmr,99,Neo Magazin Royale,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+zap,99,Zapp,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+hob,99,Hobbylos,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+ply,99,PlayAward2016,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+wep,99,Webvideopreis in der Kategorie Music 2017,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+gka,99,Goldene Kamera Digital Award 2019,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+pfp,99,PreisfuerPopkultur2019,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+uwm,99,Umweltmedienpreis2019,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+nan,99,NannenPreis2020,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+gri,99,GrimmeOnlineAward2020,1,99,99,99,99,99,99,99,99,99,99,99,Preis
+spk,99,SPRK,1,99,99,99,99,99,99,99,99,99,99,99,Eigene Marke
+dt,99,Dirtea,1,99,99,99,99,99,99,99,99,99,99,99,Getraenk
+sps,99,SP_RK,1,99,99,99,99,99,99,99,99,99,99,99,Musik
+sp,99,ShirinParfumdm,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+shz,99,ShirizzleMerch,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+dsds,99,DeutschlandsuchtdenSuperstar,1,99,99,99,99,99,99,99,99,99,99,99,TV-Auftritt
+ad,99,adidas,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+sxf,99,savagexfenty,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+fv,99,FitVeganBuch,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+dbj,99,Das beste Jahr Buch,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+eup,99,Ess und Partner Firma,1,99,99,99,99,99,99,99,99,99,99,99,Firma
+si,99,Sing Synchro von Lance,1,99,99,99,99,99,99,99,99,99,99,99,Synchronisation
+zhg,99,Zhero Hotel Ischgl,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+olk,99,OLA KALA Klamotten,1,99,99,99,99,99,99,99,99,99,99,99,Kooperation
+bb,99,Bitch Bibel,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+kkm,99,Katja Krasavice Merch,1,99,99,99,99,99,99,99,99,99,99,99,Merchandising
+of,99,Only Fans,1,99,99,99,99,99,99,99,99,99,99,99,Eigene Marke
+lh,99,Lobbyhos Podcast ,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+lig,99,Life is a Glitch ,1,99,99,99,99,99,99,99,99,99,99,99,Filmrolle
+ieu,99,Ich - Einfach unverbesserlich 3,1,99,99,99,99,99,99,99,99,99,99,99,Synchronisation
+eve,99,Everest - Ein Yeti will hoch hinaus,1,99,99,99,99,99,99,99,99,99,99,99,Synchronisation
+dra,99,Drachenreiter,1,99,99,99,99,99,99,99,99,99,99,99,Synchronisation
+sth,99,Sonic the Hedgehog,1,99,99,99,99,99,99,99,99,99,99,99,Synchronisation
+ps,99,Ploetzlich Schwanger,1,99,99,99,99,99,99,99,99,99,99,99,Podcast
+shv,99,Die Schmahamas Verschwoerung,1,99,99,99,99,99,99,99,99,99,99,99,Buch
+dtk,99,DieTechniker_Krankenkasse,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
+mcs,99,Microsoft,1,99,99,99,99,99,99,99,99,99,99,99,Werbung
